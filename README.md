@@ -1,0 +1,61 @@
+<h2> 👋 Hi, &nbsp;I’m Rishabh </h2>
+
+<p align="left">  
+  Working with trending technologies is something a Computer Science student aims for while moving forward. Currently, I am working as a System Engineer at Tata Consultancy Services. To be more precise, my job is to create Augmented Reality(AR) applications that can help in the betterment of the education field. I am a Critical thinker who likes to be competitive. I get fascinated with new technologies and my eagerness to work with them never ends.
+</p>
+    
+<br>
+
+### Languages & Tools Used:
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="html5" width="50" height="50"/> 
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="html5" width="50" height="50"/> 
+    </a> 
+    <a href="https://www.java.com" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
+    </a> 
+    <a href="" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="nodejs" width="50" height="50"/> 
+    </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="react" width="50" height="50"/> 
+    </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="react" width="50" height="50"/> 
+    </a>
+    <a href="https://www.python.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+    </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="react" width="50" height="50"/> 
+    </a> 
+    <br><br>
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+    </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="react" width="50" height="50"/> 
+    </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="react" width="50" height="50"/> 
+    </a> 
+</p>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh27goel&hide=jupyter%20notebook,matlab&langs_count=6&exclude_repo=Daily-Coding-Practice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contribution Stats:
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh27goel&" height="150%" alt="rishabh27goel" /></p>
