@@ -1,3 +1,5 @@
+<br>
+
 <h2> 👋 Hi, &nbsp;I’m Rishabh </h2>
 
 <p align="left">  
@@ -29,9 +31,6 @@
     <a href="https://www.python.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
     </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="react" width="50" height="50"/> 
-    </a> 
     <br><br>
     <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
@@ -43,13 +42,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
     </a>
     <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="react" width="50" height="50"/> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="react" width="50" height="50"/> 
     </a>
     <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="react" width="50" height="50"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
     </a> 
 </p>
 
