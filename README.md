@@ -1,5 +1,3 @@
-<br>
-
 <h2> 👋 Hi, &nbsp; I’m Rishabh &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="html5" width="85" height="65"/> </h2>
 
 <p align="left">  
