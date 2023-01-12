@@ -47,7 +47,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh27goel&hide=jupyter%20notebook,matlab&langs_count=6&exclude_repo=Daily-Coding-Practice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh27goel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh27goel&hide=jupyter%20notebook,matlab&langs_count=6&exclude_repo=Daily-Coding-Practice&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ### Contribution Stats:
